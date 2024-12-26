@@ -17,6 +17,6 @@ Mark completed tasks or remove tasks you no longer need.
 Contribute to the Project
 This project is open source, and contributions are welcome! Whether you're improving the design, adding features, or fixing bugs, your input is valuable.
 
-🌟 Fork the repository.
+Fork the repository.
 🔧 Work on your changes.
 📤 Submit a pull request.
