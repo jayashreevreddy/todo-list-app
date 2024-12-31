@@ -5,7 +5,7 @@ This open-source project is designed to help users manage and organize their tas
 Features
 📝 Create, update, and delete tasks effortlessly.
 📋 View all your tasks in an organized list format.
-✅ Mark tasks as complete to celebrate your progress.
+✅ Mark tasks as complete to celebrate your progress
 🎨 Clean and user-friendly design for a seamless experience.
 
 Why This App?
