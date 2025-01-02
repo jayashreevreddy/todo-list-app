@@ -9,7 +9,7 @@ Features
 🎨 Clean and user-friendly design for a seamless experience.
 
 Why This App?
-Staying organized is key to productivity, and the To-Do List App makes it easy and accessible for everyone. This project is beginner-friendly and perfect for learning the basics of web development while creating a useful tool.
+Staying organized is key to productivity, and the To-Do List App makes it easy and accessible for everyone. This project is beginner-friendly and perfect for learning the basics of web development while creating a useful tool
 
 How to Use
 Open the app in your browser or on your local machine.
