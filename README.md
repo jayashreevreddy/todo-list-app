@@ -15,7 +15,7 @@ How to Use
 Open the app in your browser or on your local machine.
 Add new tasks by typing them into the input box and clicking "Add Task."
 Mark completed tasks or remove tasks you no longer need.
-Contribute to the Project
+Contribute to the Project:
 This project is open source, and contributions are welcome! Whether you're improving the design, adding features, or fixing bugs, your input is valuable.
 
 Fork the repository
