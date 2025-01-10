@@ -6,7 +6,7 @@ Features
 📝 Create, update, and delete tasks effortlessly.
 📋 View all your tasks in an organized list format.
 ✅ Mark tasks as complete to celebrate your progress. 
-🎨 Clean and user-friendly design for a seamless experience.
+🎨 Clean and user-friendly design for a seamless experience..
 
 Why This App?
 Staying organized is key to productivity, and the To-Do List App makes it easy and accessible for everyone. This project is beginner-friendly and perfect for learning the basics of web development while creating a useful tool
