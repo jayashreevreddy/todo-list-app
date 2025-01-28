@@ -19,4 +19,4 @@ This project is open source, and contributions are welcome! Whether you're impro
 
 Fork the repository
 🔧 Work on your changes
-📤 Submit a pull request
+📤 Submit a pull request!
