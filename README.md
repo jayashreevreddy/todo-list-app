@@ -1,7 +1,7 @@
 Welcome to the To-Do List App. 
 This open-source project is designed to help users manage and organize their tasks efficiently. Whether you're tracking your daily chores, planning a project, or organizing your long-term goals, this app provides a simple and intuitive interface to keep you on track. 
 
-Features:
+Features
 📝 Create, update, and delete tasks effortlessly
 📋 View all your tasks in an organized list format.
 ✅ Mark tasks as complete to celebrate your progress.
